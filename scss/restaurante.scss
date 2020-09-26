@@ -1,0 +1,44 @@
+body {
+    
+}
+
+#color1{
+    background-color: #303f5c;
+    color: white;
+}
+
+#color2{
+    background-color: #bfd9d8;
+    color: #303f5c;
+}
+
+#color3{
+    background-color: #7f3035;
+    color: white;
+}
+
+#color4{
+    background-color: #ffffff;
+    color: black;
+    border-style: solid;
+}
+
+#color5{
+    background-color: #000000;
+    color: white;
+    
+}
+
+#color6{
+    background-color: #9479b2;
+    color: black;
+}
+
+$break-small: 500px;
+
+.jumbotron{
+    @media screen and (max-width: $break-small) {
+        height: 450px;
+        width: 450px;
+    }
+}

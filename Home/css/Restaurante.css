@@ -1,0 +1,62 @@
+#color1 {
+  background-color: #303f5c;
+  color: white;
+}
+
+#color2 {
+  background-color: #bfd9d8;
+  color: #303f5c;
+}
+
+#color3 {
+  background-color: #7f3035;
+  color: white;
+}
+
+#color4 {
+  background-color: #ffffff;
+  color: black;
+  border-style: solid;
+}
+
+#color5 {
+  background-color: #000000;
+  color: white;
+}
+
+#color6 {
+  background-color: #9479b2;
+  color: black;
+}
+
+
+  .jumbotron {
+   
+    background-image: url("a-filling-plate-of-gourmet.jpg")
+  }
+
+
+.CC{
+  height: 250px;
+  width: 250px;
+}
+
+header{
+  background-color: #bfd9d8;
+}
+
+.topnav{
+  float: right;
+  padding-top: 100px;
+  padding-right: 100px;
+}
+
+.navhome, .navmen, .navabout, .navcontact{
+  padding: 10px;
+}
+
+footer{
+  background-color: black;
+}
+
+/*# sourceMappingURL=restaurante.css.map */
